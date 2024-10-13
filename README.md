@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shinkenuu
-- 👀 I’m interested in AI, distributed-systems, IoT and ASM stuff
-- 🌱 I’m currently learning Deep Learning, NLU, NLG, Knowledge bases
-- 💞️ I’m looking to collaborate on any small project I would like to use or have fun contributing to.
+- 👀 I’m interested in AI, agents, recommendation systems and GenAI art.
+- 🌱 I’m currently working on [PlantAI](https://github.com/shinkenuu/PlantAI)
+- 💞️ I’m looking to increase my knowledge on AI, speacilly NLP
 - 📫 /in/ndelatorre
 
 
